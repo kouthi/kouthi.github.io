@@ -3,6 +3,9 @@ h1 {
     font-family: 'Pacifico', cursive;
     font-size: 250%;
 }
+h1:hover {
+    color: dodgerblue;
+}
 
 .mainbox {
     text-align: center;
