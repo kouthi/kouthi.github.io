@@ -1,0 +1,14 @@
+#+TITLE: 2026-01-25
+#+OPTIONS: toc:nil H:1 num:nil ^:{}
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css?family=Lora|Reenie+Beanie" rel="stylesheet">
+#+HTML_HEAD: <link rel="stylesheet" href="./index.css">
+#+HTML_HEAD: <style>.title { display: none; }</style>
+#+AUTHOR: kouthi
+
+* My First Post
+- This is my first time writing a post.
+- I plan to write weekly about whatever I want.
+
+* Why Now?
+- I've dreamed of having my own homepage for about 20 years.
+- I'm finally making it happen.
