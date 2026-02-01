@@ -4,6 +4,10 @@ body {
     width: 100%;
 }
 
+#content {
+    max-width: 1000px !important;
+}
+
 h1 {
     color: darkblue;
     font-family: 'Reenie Beanie', cursive;
@@ -26,5 +30,5 @@ p {
 }
 .contents {
     height: 300px;
-    width: 300px;
+    width: 1000px;
 }
