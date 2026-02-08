@@ -1,0 +1,35 @@
+#+TITLE: 2026-02-08
+#+OPTIONS: toc:nil H:1 num:nil ^:{}
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css?family=Lora|Reenie+Beanie" rel="stylesheet">
+#+HTML_HEAD: <link rel="stylesheet" href="./index.css">
+#+HTML_HEAD: <style>.title { display: none; }</style>
+#+AUTHOR: kouthi
+
+* My thoughts on Anki's growing-up moment
+Last week, Anki's creator Damien Elmes announced that [[https://forums.ankiweb.net/t/ankis-growing-up/68610][he is transferring stewardship of the project to AnkiHub]]. I accept this news as the biggest structural change in Anki's history. The community reaction has been swift and polarized — some grateful, others fearful of "enshittification." As an Anki user who left and came back, I am recording here how I feel right now.
+
+* My History with Anki
+I first started using Anki around 2015 primarily to study English. It was transformative. Spaced repetition felt like a cheat code for vocabulary, idioms, and grammar retention, and over the next three years, I saw real, measurable improvement in my language skills.
+
+But then, I stopped.
+
+It wasn't because Anki didn't work. Anki's interface is complex, its settings are dense, the documentation assumes a certain level of technical familiarity (understanding of what deck/note/field/card/template/... are at deck constructing stage, and then what new/learn/review/bury/leech... are at review stage). and the gap between "installing the app" and "using it effectively" is wide. As my daily routine changed outside Anki, the activation energy to keep going was just too high. So Anki sat unused on my hard drive for years.
+
+About six months ago, I picked it up again. What changed? The rise of LLMs and generative AI realized the situation where I had a patient, always-available tutor who could walk me through Anki's steep learning curve. If it weren't for that, my Anki decks would still be dormant.
+
+* This situation might evolve into something like Red Hat
+Back to today: when I heard the news, my first thought wasn't ruined projects in history. It was Red Hat.
+Red Hat built a billion-dollar business on a simple model: the core product (Linux) is completely open source, but expert support, enterprise features, and managed services cost money. The software is free; the expertise to deploy it well is what you pay for.
+
+My guess is Anki fits this pattern. The core app is powerful but not easy to use to its full potential. I say this as someone who left the app for years partly because of the learning curve. Configuring FSRS settings, designing effective card templates, building a sustainable review habit — these are skills, and not trivial ones.
+
+This is, I suspect, a significant reason why Anki is so popular among medical students specifically. It's not just that med students have a lot to memorize — it's that they tend to be high-aptitude learners who are comfortable wrestling with complex tools. For the rest of us, Anki's power is locked behind a steep learning curve of initial configuration and habit-building.
+
+AnkiHub's paid tier essentially offers a shortcut past that cliff: pre-made, collaboratively maintained decks; AI-powered features; guided study workflows. The free, open-source core doesn't need to get worse for this model to work — it just needs to stay complex enough that a significant portion of users want help.
+
+Red Hat has operated this way for over 30 years without widespread accusations of betraying the open-source community (to my knowledge). Of course, the analogy isn't perfect. Red Hat's primary customers are enterprises with IT budgets; AnkiHub's customers are students. Red Hat had 30 years to build trust; AnkiHub is starting from a position of suspicion.
+
+* What I'm Watching For in Anki's future
+I don't think panic is warranted. But I also don't think blind trust is appropriate. And here's the safety net that makes all of this less scary than it sounds: Anki is open source. If AnkiHub breaks faith, the community can fork the project.
+
+And there is Damien Elmes who gave years of his life to an open-source project that has genuinely changed how millions of people, including me, learn things. I fully respect his decision, and I will not need any Anki cards to remember my gratitude already deeply etched in my mind :)

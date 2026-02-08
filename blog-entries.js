@@ -9,5 +9,10 @@ const blogEntries = [
         date: '2026-02-01',
         title: 'The Form of Contents and How We Interact with Them',
         file: '2026-02-01.html'
+    },
+    {
+        date: '2026-02-08',
+        title: 'My thoughts on Anki\'s growing-up moment',
+        file: '2026-02-08.html'
     }
 ];
