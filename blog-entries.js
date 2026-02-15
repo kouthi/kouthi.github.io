@@ -14,5 +14,10 @@ const blogEntries = [
         date: '2026-02-08',
         title: 'My thoughts on Anki\'s growing-up moment',
         file: '2026-02-08.html'
+    },
+    {
+        date: '2026-02-15',
+        title: 'LLM fixes how we will do things',
+        file: '2026-02-15.html'
     }
 ];

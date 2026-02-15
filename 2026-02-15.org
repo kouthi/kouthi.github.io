@@ -1,0 +1,44 @@
+#+TITLE: 2026-02-15
+#+OPTIONS: toc:nil H:1 num:nil ^:{}
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css?family=Lora|Reenie+Beanie" rel="stylesheet">
+#+HTML_HEAD: <link rel="stylesheet" href="./index.css">
+#+HTML_HEAD: <style>.title { display: none; }</style>
+#+AUTHOR: kouthi
+
+* Programming's Inflection Point: When LLMs Froze the Path Forward
+
+Recently, some celebrate the LLM for its productivity gains, while others worry about code quality, and many others wonder whether human programmers will remain relevant. Among us, I have a personal view on it: we are living through a moment when the path forward for programming is being locked in, whether we like it or not.
+
+The training data that LLMs have absorbed — the patterns, the idioms, the frameworks, the design choices made by millions of developers over decades — is now the foundation on which future code will be written. This isn't just about efficiency or automation. It's about the point from which programming evolves next.
+
+* Case Study: Roads Optimized for Wheels, Forever
+
+Consider roads. When automobiles became dominant, the world's infrastructure optimized for wheeled vehicles and never looked back. Road surfaces were paved for rubber tires. Lane widths were standardized to multiples of car widths. Traffic signals, parking structures, city layouts — all designed around the assumption that movement means wheels.
+
+Now we have flying cars in development and Kawasaki's four-legged walking machines. But the roads? They were already built. The infrastructure was already set. These new technologies will have to adapt to a world designed for wheels, not the other way around.
+
+Programming is facing a similar lock-in moment, I suspect.
+
+* Case Study: When a Phrase in a Language Goes Viral, It Sticks
+
+For more intimate examples for Programming (which is made on, yes, languages!), vocal/written languages evolve, but sometimes a phrase or concept "goes viral" and becomes permanent, regardless of whether it's logical or efficient. Once it takes hold, that's the version we're stuck with.
+
+Every language carries its own internal inconsistencies. Gendered nouns in German or French serve no functional purpose. English spelling and pronunciation match only sporadically. These aren't features — they're historical accidents that became fossilized.
+
+And yet, we don't fix them. Esperanto was designed to be perfectly logical and regular, but it never gained traction. Natural languages, with all their quirks, continue to dominate. That's just how it works. Once the path is set, momentum takes over.
+
+* LLMs and the Frozen Codebase
+
+Right now, LLMs are learning from the code we've already written. The libraries, the patterns, the conventions — good and bad — are all being encoded into their training. And from this point forward, new code will be generated based on that snapshot.
+
+This doesn't mean progress stops. But it does mean the baseline shifts. Just as roads optimized for wheels shaped the future of transportation, the code patterns embedded in LLM training data will shape the future of software development.
+
+If a framework was popular enough to be widely represented in training data, it will be reinforced. If a pattern was common — even if it was suboptimal — it will be perpetuated. The code we write tomorrow will be influenced by the code we wrote yesterday, filtered through the patterns LLMs have learned.
+
+* Living at the Boundary
+
+So what does it mean to live through this inflection point?
+
+I can say at least one thing clearly. It means we have the chance to see the boundary clearly. We can observe what came before and what comes after. We can recognize the moment when the path forward was locked in.
+
+Whether we take advantage of that awareness is up to us. But anyway, I savor the fortune of witnessing the spectacle upheaval of the digital technologies and try to remember every wonder I experience last several years since ChatGPT-3.5, and will do for several years from now on.
