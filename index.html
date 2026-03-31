@@ -1,20 +1,30 @@
 <!DOCTYPE html>
-<html lang="ja-JP">
+<html lang="ja-JP" data-theme="light">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>kouthi's homepage</title>
-        <link href="https://fonts.googleapis.com/css?family=Lora|Reenie+Beanie" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Reenie+Beanie&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="./index.css">
     </head>
     <body>
+        <canvas id="bg-canvas" aria-hidden="true"></canvas>
+
+        <button id="theme-toggle" aria-label="Toggle dark/light mode" title="Toggle dark/light mode">🌙</button>
+
         <div id="main">
             <div class="contents">
                 <h1>kouthi's homepage</h1>
+                <p class="subtitle" id="typed-subtitle"></p>
                 <hr>
-                <p>GitHub Pages test...</p>
+                <section>
+                    <h2>Blog Entries</h2>
+                    <ul id="blog-list"></ul>
+                </section>
                 <hr>
-                <h2>Blog Entries</h2>
-                <ul id="blog-list"></ul>
-                <hr>
+                <footer class="site-footer">
+                    <p>Built with ♥ using <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></p>
+                </footer>
             </div>
         </div>
         <script src="./blog-entries.js"></script>
